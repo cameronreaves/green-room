@@ -1,0 +1,23 @@
+h1 {
+  color:#78a22f;
+  text-align:center;
+}
+
+#page {
+  padding: 0 60px;
+}
+
+.c {
+  float: left;
+  width: 50%;
+  padding: 15px;
+}
+
+/* Clear floats after the columns */
+.r {
+  content: "";
+  display: table;
+  clear: both;
+  background-color:#F2FBEE;
+}
+
